@@ -1,0 +1,1 @@
+this is text-- text.lua 文件末尾注释
